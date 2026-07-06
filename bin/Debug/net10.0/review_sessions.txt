@@ -1,0 +1,5 @@
+Date: 23rd June 2026
+Topic: Delegates
+Understanding Level: average
+Notes: uhmm it was the area talking about func and Action knowing how to use them in class level gave me a headache
+------------------------

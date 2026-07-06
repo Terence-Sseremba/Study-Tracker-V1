@@ -1,0 +1,14 @@
+c:\Users\Terence\StudySessionTracker\bin\Debug\net10.0\StudySessionTracker.exe
+C:\Users\Terence\StudySessionTracker\bin\Debug\net10.0\StudySessionTracker.deps.json
+C:\Users\Terence\StudySessionTracker\bin\Debug\net10.0\StudySessionTracker.runtimeconfig.json
+c:\Users\Terence\StudySessionTracker\bin\Debug\net10.0\StudySessionTracker.dll
+c:\Users\Terence\StudySessionTracker\bin\Debug\net10.0\StudySessionTracker.pdb
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.AssemblyInfoInputs.cache
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.AssemblyInfo.cs
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.csproj.CoreCompileInputs.cache
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.dll
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\refint\StudySessionTracker.dll
+c:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.pdb
+C:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\StudySessionTracker.genruntimeconfig.cache
+C:\Users\Terence\StudySessionTracker\obj\Debug\net10.0\ref\StudySessionTracker.dll
